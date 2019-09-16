@@ -1,0 +1,87 @@
+/* CSS Document */
+.border
+{
+	border-style:solid;
+	border-width:thin;
+	border-color:#666;
+}
+.border_med
+{
+	border-style:solid;
+	border-width:medium;
+	border-color:#000;
+}
+.footer
+{
+	text-align:center;
+	color:#FFF;
+	background-color:#000;
+}
+.heading
+{
+	text-align:center;
+	color:#090;
+	font-size:24px;
+	font-weight:bolder;
+	font-style:italic;
+	background-color:#9F6;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+.sub_heading
+{
+	color:#00C;
+	font-size:22px;
+	font-weight:bold;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+.sub_heading2
+{
+	color:#FFF;
+	background-color:#F30;
+	font-size:22px;
+	font-weight:bold;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+.normal_text
+{
+	font-size:18px;
+	font-weight:600;
+}
+.error
+{
+	color:#F00;
+	font-size:16px;
+	font-weight:700;
+	font-style:italic;
+}
+.message
+{
+	color:#900;
+	text-align:center;
+	font-size:16px;
+	font-weight:400;
+}
+.link
+{
+	color:#03F;
+	text-align:center;
+	font-size:14px;
+	font-weight:400;
+}
+.star
+{
+	color:#F00;
+}
+.text_box
+{
+	height:25px;
+	width:96%;
+	background-color:#FCC;
+}
+.text_area
+{
+	height:100px;
+	width:96%;
+	background-color:#FCC;
+}
